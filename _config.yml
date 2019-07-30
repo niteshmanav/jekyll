@@ -30,9 +30,10 @@ section: true
 
 # set to 'true' to enable Netlify CMS (/admin) in production builds
 netlifycms: true
+future: true
 
 # set to 'true' to enable Google Analytics tracking code in production builds
-analytics: false
+analytics: true
 
 # Compress CSS
 sass:
