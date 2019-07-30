@@ -356,5 +356,6 @@ intro_paragraph: >-
 
 
   What's next?
+categories: 'WordPress, '
 ---
-
+It's hard choosing a CMS. The main criteria I had was that I wanted all the content stored on the Github account. Markdown in one folder, photos in another. This means you don't even need the CMS — you can just go in there and edit the files! Most other CMS are much more complicated than this, like the Ghost CMS system, or Contentful, which is really popular but $40 a month.
